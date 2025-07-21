@@ -23,7 +23,7 @@ A sleek and simple weather web application that lets users search for real-time 
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
+* JavaScript
 * OpenWeatherMap API
 * Unsplash for dynamic backgrounds
 
@@ -31,7 +31,7 @@ A sleek and simple weather web application that lets users search for real-time 
 
  🔑 API Key Setup
 
-This app uses the OpenWeatherMap API. You can sign up at [https://openweathermap.org](https://openweathermap.org) to get your free API key.
+This app uses the OpenWeatherMap API. You can sign up at (https://openweathermap.org) to get your free API key.
 
 To update the key:
 
@@ -42,7 +42,7 @@ To update the key:
   apiKey: "765bda6479a826b122c157e2d9bb04ef"
   ```
 
-  with your own API key.
+  with my own API key.
 
 ---
 
@@ -70,6 +70,6 @@ The app will display the current temperature, humidity, wind speed, and a backgr
 
 * [OpenWeatherMap](https://openweathermap.org/)
 * [Unsplash](https://unsplash.com/)
-* [FontAwesome](https://fontawesome.com/) (for icons, if used)
+* [FontAwesome](https://fontawesome.com/) (for icons)
 
 ---
